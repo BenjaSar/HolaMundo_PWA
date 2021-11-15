@@ -1,0 +1,46 @@
+{
+  "name": "Hola Mision Tic 2022",
+  "short_name": "Hola PWA",
+  "icons": [
+    {
+      "src": "images/android/android-launchericon-48-48.png",
+      "size": "48x48",
+      "type": "image/android/png"
+    },
+    {
+      "src": "im4ages/android/android-launchericon-72-72.png",
+      "size": "72x72",
+      "type": "image/android/png"
+    },
+    {
+      "src": "images/android/android-launchericon-96-96.png",
+      "size": "96x96",
+      "type": "image/android/png"
+    },
+    {
+      "src": "images/android/android-launchericon-144-144.png",
+      "size": "144x144",
+      "type": "image/android/png"
+    },
+    {
+      "src": "images/android/android-launchericon-48-48.png",
+      "size": "48x48",
+      "type": "image/android/png"
+    },
+    {
+      "src": "images/android/android-launchericon-192-192.png",
+      "size": "192x192",
+      "type": "image/android/png"
+    },
+    {
+      "src": "images/android/android-launchericon-512-512.png",
+      "size": "512x512",
+      "type": "image/android/png"
+    }
+  ],
+  "lang": "es-CO",
+  "start_url": "./index.html",
+  "background_color": "white",
+  "theme_color": "white",
+  "display": "standalone"
+}

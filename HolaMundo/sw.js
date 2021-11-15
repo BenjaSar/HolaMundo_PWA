@@ -1,5 +1,5 @@
 //Serive worker: permite cargar la informacion en cache.
-var cacheName = "HolaMundo";
+var cacheName = "PWA";
 var filesToCache = ["/", "/index.html", "/css/style.css", "/js/main.js"];
 /* Inicie el service worker y almacene en caché todo el contenido de
 la aplicación */

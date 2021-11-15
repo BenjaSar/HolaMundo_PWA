@@ -1,4 +1,4 @@
-![header](doc/header.png)
+![header](docs/header.png)
 
 # Progressive Web Aplication
 
@@ -50,4 +50,4 @@ El proyecto se encuentra conformado por la siguiente estructura de directorios y
 ## LICENCIA
 
 Este proyecto se encuentra publicado bajo la licencia MIT. En [este enlace](https://opensource.org/licenses/MIT) podrá encontrar más información sobre la misma.
-![footer](doc/footer.png)
+![footer](docs/footer.png)
